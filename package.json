@@ -1,0 +1,28 @@
+{
+  "name": "teste-project-vue",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vite preview",
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "5.9.55",
+    "firebase": "^10.7.2",
+    "roboto-fontface": "*",
+    "vue": "^3.3.11",
+    "vue-router": "^4.2.5",
+    "vue3-charts": "^1.1.33",
+    "vuetify": "^3.0.0-beta.0",
+    "webfontloader": "^1.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.2",
+    "vite": "^5.0.8",
+    "vite-plugin-vuetify": "^2.0.1",
+    "vue-cli-plugin-vuetify": "~2.5.8"
+  },
+  "type": "module"
+}
